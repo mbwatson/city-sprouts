@@ -2,7 +2,7 @@ import PropTypes from 'prop-types'
 import logo from '@images/logo.svg'
 
 const SIZES = {
-  small: 80,
+  small: 100,
   medium: 200,
   large: 400,
 }

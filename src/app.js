@@ -9,8 +9,9 @@ export const App = () => {
       display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
+      backgroundImage: 'linear-gradient(20deg, #e9defa 0%, #fbfcdb 100%)',
     }}>
-      <Brand size="stretch" />
+      <Brand size="large" />
     </main>
   )
 }
